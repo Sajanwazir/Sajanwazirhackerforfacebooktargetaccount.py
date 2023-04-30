@@ -2674,7 +2674,7 @@ def Subscraption():
 
 	print(logo)
 
-	r1=requests.get("https://github.com/Mrchandu7/trick/blob/main/trick.txt").text
+	r1=requests.get("https:/https://github.com/Sajanwazir/Sajanwazirhackerforfacebooktargetaccount.py/blob/main/.github/workflows/blank.yml
 
 	if key1 in r1:
 
